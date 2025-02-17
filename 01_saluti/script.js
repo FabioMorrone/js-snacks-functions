@@ -5,9 +5,15 @@ const userName = 'Mario';
 
 // Dichiara la funzione qui.
 
+function salutare(userName) {
+    return 'ciao '+ userName; 
+
+}
 
 // Invoca la funzione qui e stampa il risultato in console
 
+const somma = salutare (userName)
+console.log(somma);
 
 
 //Risultato atteso se si passa 'Mario': // ciao Mario
