@@ -4,7 +4,20 @@ const names = ["Anna", "Luca", "Marco", "Adele", "Giovanni", "Alessandra"];
 
 
 // Dichiara la funzione qui.
+function iNomi(names) {
+    for (let i = 0; i < names.length; i++) {
+        const element = names[i];
+    
+        console.log(names.charAt(0));
+        
+    
+        
+       
+        
 
+        
+    }
+}
 
 // Invoca la funzione qui e stampa il risultato in console
 
