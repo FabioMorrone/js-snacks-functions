@@ -6,7 +6,7 @@ const userName = 'Mario';
 // Dichiara la funzione qui.
 
 function salutare(userName) {
-    return 'ciao '+ userName; 
+    return 'Ciao '+ userName; 
 
 }
 
