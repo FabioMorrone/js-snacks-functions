@@ -12,8 +12,8 @@ function salutare(userName) {
 
 // Invoca la funzione qui e stampa il risultato in console
 
-const somma = salutare (userName)
-console.log(somma);
+const salutoCompleto = salutare (userName)
+console.log(salutoCompleto);
 
 
 //Risultato atteso se si passa 'Mario': // ciao Mario
